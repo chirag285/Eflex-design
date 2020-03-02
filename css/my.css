@@ -1,0 +1,347 @@
+        body {
+            background-color: #eee;
+            margin: 0px;
+            padding: 0px;
+            font-family:  sans-serif,Arial, Helvetica;
+        }
+
+        header {
+            background-color: white;
+            height: 60px;
+        }
+
+        #ltxt {
+            font-style: bold;
+            margin-top: -8px;
+        }
+
+        .llogo {
+            margin-left: 58px;
+            width: 15%;
+        }
+
+        .navBar {
+            width: 67%;
+        }
+
+        .settings
+        {
+            margin-left: 91px;
+        }
+
+
+        .navBar li a {
+            color: black;
+        }
+
+        .logoutbtn {
+            color: red;
+            margin-top: 17px;
+            width: 9%;
+            text-align: right;
+        }
+
+        .logotext
+        {
+            margin-top: 18px;
+        }
+        .main
+        {
+            margin-top: 20px;
+        }
+
+        .profile {
+            background-color: white;
+            text-align: center;
+            border-radius: 25px;
+            width: 20%;
+            margin-left: 40px;
+        }
+
+        .top_icons
+        {
+            margin: 0px;
+            margin-top: 10px;
+        }
+
+        .bell
+        {
+            margin-left: 10px;
+        }
+
+        .settings
+        {
+            margin-left: 220px;
+        }
+
+        .profile span
+        {
+            font-family: poppins, sans-serif;
+        }
+
+        .main_2 {
+            margin-left: 30px;
+            width: 69%;
+        }
+
+        .profile_photo
+        {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .profile_name
+        {
+            margin-top: 10px;
+        }
+
+        .profile_name span
+        {
+            font-style: bold;
+            margin-top: 10px;
+        }
+
+        .id_no span
+        {
+            color: silver;
+        }
+
+        .id_btn
+        {
+            margin-top: 10px;
+        }
+
+        #C_button
+        {
+            background-color: #ff9201;
+            border: 0px;
+            width: 35%;
+            border-radius: 5px;
+            height: 30px;
+            color: white;
+            font-size: 13px;
+            font: bold;
+        }
+
+        .profile_b
+        {
+            margin: 0px;
+            margin-top: 25px;
+            background-color: #ff9201;
+            color: white;
+            height: 30px;
+        }
+
+        .P_details{
+            margin: 0px;
+            padding-top: 3px;
+        }
+
+        .headd
+        {
+            margin: 0px;
+            float: left;
+            margin-left: 10px;
+        }
+
+
+        .editt
+        {
+            margin-left: 130px;
+        }
+
+        .info_div_h span
+        {
+            color: silver;
+        }
+
+        .p_infromation
+        {
+            margin-top: 20px;
+        }
+
+        .info_div
+        {
+            margin-left: 10px;
+            margin-bottom: 9px;
+        }
+
+        .info_div span
+        {
+            font-size: 13px;
+        }
+
+        .info_div ul
+        {
+            text-align: left;
+        }
+
+        .info_div ul li
+        {
+            font-size: 13px;
+            text-align: left;
+        }
+
+
+        .info_div_h
+        {
+            width: 50%;
+            text-align: left;
+        }
+
+        .info_div_d
+        {
+            width: 48%;
+            text-align: left;
+            margin-left: -41px;
+        }
+
+        .info_div_d span
+        {
+            text-align: left;
+        }
+
+        .info_div_d ul li 
+        {
+            list-style: none;
+            text-align: left;
+        }
+
+        .top_boxes
+        {
+            width: 100%;
+            margin-left: 0px;
+        }
+
+        .box
+        {
+            margin: 0px;
+            border-radius: 5px;
+            height: 120px;
+            width: 30%;
+            background-color: white;
+        }
+
+        .box2
+        {
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+
+        .fa-landmark
+        {
+            height: 100px !important;
+            width: 100px !important;
+        }
+
+        .boxPrice
+        {
+            margin-top: -20px;
+        }
+        .boxPrice h2
+        {
+            color: #ff9201;
+            font-family: poppins, sans-serif;
+        }
+
+        .boxPrice p
+        {
+            font-family: poppins;
+        }
+
+        .boxText
+        {
+            width: 67%;
+        }
+
+        .boxPicture
+        {
+            width: 33%;
+            margin: 0px;
+        }
+
+        .head{
+            padding-top: 26px;
+        }
+
+        .boxPrice h2{
+            font-family: serif,Arial, sans-serif, Helvetica;
+            
+        }
+        .head p{
+            font-size: 18px;
+            font: 900;
+        }
+
+        .table
+        {
+            margin-top: 20px;
+            background-color: #eee !important;
+        }
+
+        tr:hover
+        {
+            background-color: white;
+            color: #ff9201;
+        }
+
+        .top_t
+        {
+            margin:0px;
+        }
+
+        .aa
+        {
+            border-bottom: 2px solid #ff9201;
+            color: #ff9201;
+        }
+
+        .bb
+        {
+            border-bottom: 2px solid #e1e1e1;
+        }
+
+        .ll
+        {
+            width: 43%;
+            border-bottom: 2px solid #e1e1e1;
+        }
+
+        .topt_b
+        {
+            width: 19%;
+        }
+
+        footer
+        {
+            color: white;
+            background-color: #172337;
+            margin-top: 30px !important;
+        }
+
+        .fff
+        {
+            margin: 0px;
+            font-size: 15px;
+        }
+
+        .left_f
+        {
+            margin-top: 28px;
+        }
+        .rit_footer
+        {
+            float: right;
+            margin: 0px;
+            margin-left: 630px;
+        }
+
+        .tt_d_txt
+        {
+            margin-top: 18px;
+        }
+
+        .phone_no p{
+            font-size: 20px;
+            margin-top: -15px;
+        }
